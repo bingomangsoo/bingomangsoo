@@ -1,4 +1,7 @@
-### Hi there 👋
+
+✏️ 꾸준히 공부하는 주니어 개발자 박혜민 입니다.
+e-mail: bingomangsoo@gmail.com
+blog: https://velog.io/@bingomangsoo
 
 <!--
 **bingomangsoo/bingomangsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
