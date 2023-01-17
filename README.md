@@ -1,6 +1,7 @@
 
-✏️ 꾸준히 공부하는 주니어 개발자 박혜민 입니다.
+### ✏️ 꾸준히 공부하는 주니어 개발자 박혜민 입니다.
 e-mail: bingomangsoo@gmail.com
+<br>
 blog: https://velog.io/@bingomangsoo
 
 <!--
