@@ -8,11 +8,6 @@
 I think there is a lot to learn because the more you study, the more you learn.<br>
 I think of my shortcomings and am working to fill them.
 
-  
-e-mail: bingomangsoo@gmail.com
-<br>
-blog: https://velog.io/@bingomangsoo
-
 
 
 
