@@ -5,7 +5,7 @@ I think of my shortcomings and am working to fill them.
 
 📧email : bingomangsoo@gmail.com
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bingomangsoo&show_icons=true&theme=tokyonight)
 <!--
 **bingomangsoo/bingomangsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
